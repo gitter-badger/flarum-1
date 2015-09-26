@@ -15,6 +15,8 @@
 
 ## Goals
 
+[![Join the chat at https://gitter.im/FlarumHost/flarum](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FlarumHost/flarum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Flarum is the combined successor of [esoTalk](http://esotalk.org) and [FluxBB](http://fluxbb.org). It aims to be:
 
 - **Fast and simple.** No clutter, no bloat, no complex dependencies. Flarum is built with PHP so it's quick and easy to deploy. The interface is powered by Mithril, a performant JavaScript framework with a tiny footprint.
